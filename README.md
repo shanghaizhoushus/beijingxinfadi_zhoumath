@@ -32,11 +32,11 @@ pip install -r requirements.txt
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shanghaizhoushus/beijingxinfadi_project.git
+   git clone https://github.com/shanghaizhoushus/beijingxinfadi_zhoumath.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd beijingxinfadi_project
+   cd beijingxinfadi_zhoumath
    ```
 3. Run the main script to initiate the workflow:
    ```bash
