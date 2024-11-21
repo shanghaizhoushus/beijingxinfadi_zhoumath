@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/beijingxinfadi_project.git
+   git clone https://github.com/shanghaizhoushus/beijingxinfadi_project.git
    ```
 2. Navigate to the project folder:
    ```bash
